@@ -6,7 +6,11 @@ Real-time teleoperation system for a 3-DOF robotic arm using MediaPipe hand trac
 
 ## Demo Video
 
-[Watch Demo Video](YOUR_VIDEO_LINK_HERE)
+
+
+https://github.com/user-attachments/assets/4d3f0484-8fb8-444d-be57-d5f8b9f20c7d
+
+
 
 ---
 
